@@ -3,6 +3,7 @@
 Welcome to the official GitHub presence of **Zeron Group**.  
 We are a technology-driven company creating modern, scalable, and intelligent software solutions for service-based organizations.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zerongroup-tech&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
 ---
 
 ## 🌐 Who We Are
@@ -36,7 +37,3 @@ We strive to deliver software that **increases efficiency, accountability, and t
 
 **Zeron Group Tech** *Innovation through Integration* 🚀
 
----
-
-### 📊 Profile Stats
-![Visitors](https://api.visitorbadge.io/api/visitors?path=zerongroup-tech&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
