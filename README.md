@@ -30,9 +30,13 @@ We strive to deliver software that **increases efficiency, accountability, and t
 ## 📬 Contact
 
 - **Email:** [zerongroup.tech@gmail.com](mailto:zerongroup.tech@gmail.com)  
-- **Location:** F Haque Tower 107, Level-4, Bir Uttam C.R Datta Raod, Dhaka-1205., Dhaka, Bangladesh  
+- **Location:** F Haque Tower 107, Level-4, Bir Uttam C.R Datta Road, Dhaka-1205, Bangladesh  
 
 ---
 
-**Zeron Group Tech**  
-*Innovation through Integration* 🚀
+**Zeron Group Tech** *Innovation through Integration* 🚀
+
+---
+
+### 📊 Profile Stats
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zerongroup-tech&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
