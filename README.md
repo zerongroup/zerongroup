@@ -20,18 +20,6 @@ Our areas of expertise include:
 
 ---
 
-## 🛠 Technology Stack
-
-We use modern technologies to ensure performance, reliability, and security:
-
-- **Backend:** Django, Django REST Framework  
-- **Database:** PostgreSQL  
-- **Realtime:** Event-driven notifications and updates  
-- **Cloud & DevOps:** CI/CD pipelines, cloud storage & infrastructure  
-- **AI & Automation:** Document processing, predictive systems, analytics  
-
----
-
 ## 🎯 Mission
 
 Our mission is to empower organizations by turning complex operations into structured, automated, and data-driven digital systems.  
